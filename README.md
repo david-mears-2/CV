@@ -91,7 +91,7 @@ I'm practical-minded, preferring to be proactive over reactive. Here are a coupl
 
 **Freelance clarinettist and singer** (2015-2018)
 
-- Outside of my two performing groups, I specialised in Creative Learning Participation: empowering people living with dementia, children with Special Educational Needs, and other groups to express themselves creatively.
+- Outside of my performing groups, I specialised in Creative Learning Participation: empowering people living with dementia, children with Special Educational Needs, and other groups to express themselves creatively.
 
 **[Matrix Music School](https://www.matrixmusicschool.co.uk/)** (March 2015 to December 2018)   
 *Instrumental Teacher*
