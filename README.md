@@ -36,7 +36,7 @@ Using accelerate.io's tech tests to get a metric of my abilities:
 
 ### Continuous learning
 
-I'm committed to iterative improvement through practice and study. Makers instilled in me a domain-specific growth-mindset. I'm currently diving into the [fast.ai](fast.ai) course on Deep Learning with the [Effective Altruism London](https://www.ealondon.com/events) tech meetup.
+I'm committed to iterative improvement through practice and study. Makers instilled in me a domain-specific growth-mindset. I'm currently diving into the [fast.ai](https://fast.ai) course on Deep Learning with the [Effective Altruism London](https://www.ealondon.com/events) tech meetup.
 
 ### Collaboration
 
