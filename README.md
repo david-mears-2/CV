@@ -19,6 +19,7 @@
 ## Skills
 
 ### Programming
+See [Education](#education) for details of pragmatic and soft skills from Makers.
 
 Using accelerate.io's tech tests to get a metric of my abilities:   
 [Report](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=Mears&rangeFrom=0&rangeTo=300) (and [compared to all other candidates](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=All%20candidates&rangeFrom=0&rangeTo=300)):    
