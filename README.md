@@ -1,5 +1,5 @@
 ## David Mears
-[LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Projects](#recent-projects) | [Skills](#skills) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Projects](#recent-projects) | [Skills](#skills) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Volunteering Award](#volunteering-award)
 
 [Makers Academy](https://makers.tech) and Cambridge linguistics grad, aspirational junior developer, classical musician and former teacher. Looking for work contributing to meaningful, interesting projects in an environment geared towards continuous learning.
 
@@ -106,3 +106,7 @@ I learned my trade at Makers Academy's 16-week coding bootcamp in 2019.
 ## Hobbies and Interests
 
 I write [music](https://www.youtube.com/watch?v=_ZULf__C2k8) and play in [orchestras](https://www.orchestrafortheearth.co.uk/whoweare), do life-drawing, play games, and listen to podcasts on too many topics (genetics, world politics, philosophy, rationality, psychology, altruism, economics, futurism, comedy). Here are a couple of blogs: [programming](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2), [fiction/eclectica](https://pelicanesis.wordpress.com/).
+
+## Volunteering award
+
+In 2017 I won a [Westminster Community Young Volunteer Award](http://www.onewestminster.org.uk/article/one-westminster-scoops-three-awards-westminster-community-awards) for voluntary work with people living with dementia.
