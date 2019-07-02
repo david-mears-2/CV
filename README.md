@@ -15,6 +15,7 @@
 | ---                                                                     |---                 |---                                                        |
 | [Receipt Generator App](https://github.com/rtcharity/receipt_generator_app)  | An app written for Rethink Charity to automate the generation of tax receipt pdfs for donors | Python, Django, unittest |
 | [EA Hub](https://github.com/rtcharity/eahub.org) | A site with several hundred users. I was invited to join RC's volunteer [tech team](https://github.com/orgs/rtcharity/teams/tech) after writing Receipt Generator App. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+) | Python, Django, JavaScript, Jasmine |
+| [A Priori](https://github.com/david-mears/apriori) | To-Do app for optimal one-human scheduling, written in 1 day | Python, Django |
 
 ## Skills
 
