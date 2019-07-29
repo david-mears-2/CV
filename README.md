@@ -3,10 +3,10 @@
 
 [Makers Academy](https://makers.tech) and Cambridge linguistics grad, aspirational junior developer, classical musician and former teacher. Looking for work contributing to meaningful, interesting projects in an environment geared towards continuous learning.
 
-<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-233%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-188%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/HTML/CSS-416%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Python-114%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-304%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-250%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/HTML/CSS-547%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Python-189%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/CoffeeScript-85%20commits-orange.svg" alt=""></a>
 
 ## Recent Projects
