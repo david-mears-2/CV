@@ -21,28 +21,28 @@
 ## Skills
 
 ### Programming
-See [Education](#education) for details of pragmatic and soft skills from Makers.
+[Makers](https://makers.tech)' 16-week bootcamp taught me a gamut of technical and other topics, which I detail under [Education](#education).
 
-Using accelerate.io's tech tests to get a metric of my abilities:   
+Using accelerate.io's tech tests to get a *metric* of my abilities straight out of the bootcamp:   
 [Report](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=Mears&rangeFrom=0&rangeTo=300) (and [compared to all other candidates](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=All%20candidates&rangeFrom=0&rangeTo=300)):    
 - Fast delivery pace. (Clock Time <= 1h 10m)
 - Great attention to detail. (Penalty <= 0m)
 - Complete test coverage. (Test Coverage = 100%)    
 
-### Communication skills
+### Communication and collaboration
 
-- As a teacher of English as a foreign language and of musical instruments, my favourite thing was managing to place the conceptual stepping stones at optimal intervals so that my students could bridge the gap between state A and state B. In that way a seemingly intractable task is reduced to a few simple steps + practice.
-- In my writing, the ability to distil abstruse ideas into their key elements is one of my USPs.
-    - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
-    - When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) that got 46 claps on Medium.
+- As a teacher, first of English as a foreign language and later of musical instruments, my empathy has grown through constant practice. One of my favourite aspects was the challenge of placing the conceptual stepping stones at optimal intervals so that my students could bridge the gap between state A and state B (or A′), transmuting a hard problem into a series of individually simple steps.
+- I'm at my happiest when working in an autonomous team to which I can meaningfully contribute and where I can take on responsibility, something that occurs at the right scale of musical ensembles. I founded several of these, and hence laid firm foundations in team-playing: respecting one another, investing in relationships, giving and receiving feedback .
+- Makers was an excellent environment in which to hone collaborative skills such as pair-programming, and I appreciated the prioritisation of process over polish. My teams worked extremely well together, holding daily standups, planning 2-day sprints, and striving for honest communication and rapid feedback. I have continued to hone my collaborative skills since then by pair-programming an [ecosystem simulator](https://github.com/ecosystem-people/ecosystem) and through my remote collaboration on the EA Hub team.
+
+### Analytical chops
+
+- While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
+- When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) which 46 readers 'clapped' (a lot for a first post!).
 
 ### Continuous learning
 
-I'm committed to iterative improvement through practice and study. Makers instilled in me a domain-specific growth-mindset. I'm currently diving into the [fast.ai](https://fast.ai) course on Deep Learning with the [Effective Altruism London](https://www.ealondon.com/events) tech meetup.
-
-### Collaboration
-
-I'm at my happiest when working in a quite autonomous team to which I can meaningfully contribute, something that occurs at certain scales of musical ensembles. Makers was an excellent environment in which to hone collaborative skills such as pair-programming and healthy team dynamics, and I appreciated the constant prioritisation of process over polish. My teams worked extremely well together, holding daily standups, planning 2-day sprints, and striving for honest communication and rapid feedback. I have continued to hone my collaborative skills since then by pair-programming an [ecosystem simulator](https://github.com/ecosystem-people/ecosystem) and through my remote collaboration on the EA Hub team.
+I'm highly motivated to iteratively improve through a mix of practice (side-projects), study, and meetups. For example, I'm currently diving into the [fast.ai](https://fast.ai) course on Deep Learning with the [Effective Altruism London](https://www.ealondon.com/events) tech meetup. By applying my knowledge of effective learning from experience both as a teacher, and as a Master's (Distinction) student of classical clarinet and a 2.1 Cambridge grad, I maximize the velocity of absorption[.](https://en.wikipedia.org/wiki/Sponge)
 
 ### Initiative taking
 
