@@ -1,7 +1,7 @@
 ## David Mears
 [LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Projects](#recent-projects) | [Skills](#skills) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Volunteering Award](#volunteering-award)
 
-[Makers Academy](https://makers.tech) and Cambridge linguistics grad, aspirational junior developer, classical musician and former teacher. Looking for work contributing to meaningful, interesting projects in an environment geared towards continuous learning.
+[Makers Academy](https://makers.tech) and Cambridge linguistics grad, aspirational junior developer, classical musician and former teacher. Looking for work contributing to meaningful, intellectually stretching projects in an environment geared towards continuous learning.
 
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-304%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-250%20commits-orange.svg" alt=""></a>
