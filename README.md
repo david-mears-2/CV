@@ -16,7 +16,7 @@
 | [Receipt Generator App](https://github.com/rtcharity/receipt_generator_app)  | An app written for Rethink Charity to automate the generation of tax receipt pdfs for donors | Python, Django, unittest |
 | [EA Hub](https://github.com/rtcharity/eahub.org) | A site with several hundred users. I was invited to join RC's volunteer [tech team](https://github.com/orgs/rtcharity/teams/tech) after writing Receipt Generator App. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+) | Python, Django, JavaScript, Jasmine |
 | [Wolf or Husky?](https://github.com/david-mears/portfolio) ([hosted here](http://kieuk.eu.pythonanywhere.com/wolforhusky/)) | Image recognition app. First foray into ML. | Python, Django, fastai (PyTorch wrapper) |
-| [A Priori](https://github.com/david-mears/apriori) | To-Do app for optimal scheduling with alternative metrics, written in 1 day | Python, Django, PyTest |
+| [A Priori](https://github.com/david-mears/apriori) | To-Do app for optimal scheduling with two alternative metrics | Python, Django, PyTest |
 
 ## Skills
 
