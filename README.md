@@ -85,7 +85,7 @@ I learned my trade at Makers Academy's 16-week coding bootcamp.
 *Contract and voluntary work as a developer*
 
 - I built an app for RC in a language (Python) and with frameworks (Django, unittest) not touched on by the Makers course, iterating on feedback from the client.
-- After proving myself, I was invited to join the [volunteer tech team](https://github.com/orgs/rtcharity/teams/tech) working on the EA Hub website. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+).
+- After proving myself, I was invited to join the [volunteer tech team](https://github.com/orgs/rtcharity/teams/tech) working on the EA Hub website.
 
 **[Kinder](https://kinder.world/)** (July-August 2018)  
 *Charity analysis intern*
