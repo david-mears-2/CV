@@ -35,15 +35,14 @@ Using accelerate.io's tech tests to get a *metric* of my abilities straight out 
 - I'm at my happiest when working in an autonomous team to which I can meaningfully contribute and where I can take on responsibility, something that occurs at the right scale of musical ensembles. I founded several of these, and hence laid firm foundations in team-playing: respecting one another, investing in relationships, giving and receiving feedback .
 - Makers was an excellent environment in which to hone collaborative skills such as pair-programming, and I appreciated the prioritisation of process over polish. My teams worked extremely well together, holding daily standups, planning 2-day sprints, and striving for honest communication and rapid feedback. I have continued to hone my collaborative skills since then by pair-programming an [ecosystem simulator](https://github.com/ecosystem-people/ecosystem) and through my remote collaboration on the EA Hub team.
 
-### Analytical chops
+### Analytical mindset
 
-- 
 - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
 - When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) which 46 readers 'clapped' (a lot for a first post!).
 
 ### Continuous learning
 
-I'm highly motivated to iteratively improve through a mix of practice (side-projects), study, and meetups. For example, I'm currently diving into the [fast.ai](https://fast.ai) course on Deep Learning with the [Effective Altruism London](https://www.ealondon.com/events) tech meetup. By applying my knowledge of effective learning from experience both as a teacher, and as a Master's (Distinction) student of classical clarinet and a 2.1 Cambridge grad, I maximize the velocity of absorption[.](https://en.wikipedia.org/wiki/Sponge)
+A top value. I'm highly motivated to iteratively improve through a mix of practice (side-projects), study, and meetups. For example, I'm currently diving into the [fast.ai](https://fast.ai) course on Deep Learning with the [Effective Altruism London](https://www.ealondon.com/events) tech meetup. By applying my knowledge of effective learning from experience both as a teacher, and as a Master's (Distinction) student of classical clarinet and a 2.1 Cambridge grad, I maximize the velocity of absorption[.](https://en.wikipedia.org/wiki/Sponge)
 
 ### Initiative taking
 
@@ -55,7 +54,7 @@ I'm practical-minded, preferring to be proactive over reactive. Here are a coupl
 
 ## Education
 
-I learned my trade at Makers Academy's 16-week coding bootcamp in 2019.
+I learned my trade at Makers Academy's 16-week coding bootcamp.
 
 - Essential pragmatic web development and software skills:
     - [x] Object-Oriented Programming in Ruby, Rails, JavaScript
