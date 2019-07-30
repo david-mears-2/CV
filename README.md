@@ -1,7 +1,7 @@
 ## David Mears
 [LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Projects](#recent-projects) | [Skills](#skills) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Volunteering Award](#volunteering-award)
 
-[Makers Academy](https://makers.tech) and Cambridge linguistics grad, aspirational junior developer, classical musician and former teacher. Looking for work contributing to meaningful, intellectually stretching projects in an environment geared towards continuous learning.
+[Makers Academy](https://makers.tech) and Cambridge linguistics grad, aspirational junior developer, classical musician, former teacher. Looking for work contributing to meaningful, intellectually stretching projects in an environment that catalyses continuous learning.
 
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-304%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-250%20commits-orange.svg" alt=""></a>
@@ -37,6 +37,7 @@ Using accelerate.io's tech tests to get a *metric* of my abilities straight out 
 
 ### Analytical chops
 
+- 
 - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
 - When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) which 46 readers 'clapped' (a lot for a first post!).
 
