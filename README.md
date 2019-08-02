@@ -61,7 +61,7 @@ I learned my trade at Makers Academy's 16-week coding bootcamp.
     - [x] Writing RESTful APIs (Rails)
     - [x] Databases: SQL, PostgreSQL, NoSQL
     - [x] Continuous Integration
-    - [x] Algorithmic complexity ('Big-O' notation)
+    - [x] Algorithmic complexity (e.g. 'Big-O' notation)
     - [x] Responsive web design in React
 - Essential 'soft' skills:
     - [x] How to collaborate effectively without a project manager
