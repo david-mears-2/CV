@@ -1,7 +1,7 @@
 ## David Mears
 [LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Projects](#recent-projects) | [Skills](#skills) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Volunteering Award](#volunteering-award)
 
-[Makers Academy](https://makers.tech) and Cambridge linguistics grad, aspirational junior developer, classical musician, former teacher. Looking for work contributing to meaningful, intellectually stretching projects in an environment that catalyses continuous learning.
+[Makers Academy](https://makers.tech) and Cambridge [linguistics](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) grad, aspirational junior developer, classical musician, former teacher. Looking for work contributing to meaningful, intellectually stretching projects in an environment that catalyses continuous learning.
 
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-304%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-250%20commits-orange.svg" alt=""></a>
@@ -32,13 +32,11 @@ Using accelerate.io's tech tests to get a *metric* of my abilities straight out 
 ### Communication and collaboration
 
 - As a teacher, first of English as a foreign language and later of musical instruments, empathy (cognitive and emotional) was vital to the relationship. One engaging aspect of the job was the challenge of placing the conceptual stepping stones at optimal intervals so that my students could bridge the gap between state A and state B (or A′), transmuting a hard problem into a series of individually simple steps.
-- I'm at my happiest when working in an autonomous team to which I can meaningfully contribute and where I can take on responsibility, something that occurs at the right scale of musical ensembles. I founded several of these, and hence laid firm foundations in team-playing: respecting one another, investing in relationships, giving and receiving feedback .
+
+### Teamwork
+- Feedback is a core value, which I give gladly and request often. While at Kinder, my line-manager was impressed with my constructive criticism of their research process, and asked me to write it up into a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
+- I'm at my happiest when working in an autonomous team to which I can meaningfully contribute and where I can take on responsibility, something that occurs at the right scale of musical ensembles. I founded several of these, and hence laid firm foundations in team-playing: respecting one another, investing in relationships, giving and receiving feedback.
 - Makers was an excellent environment in which to hone collaborative skills such as pair-programming, and I appreciated the prioritisation of process over polish. My teams worked extremely well together, holding daily standups, planning 2-day sprints, and striving for honest communication and rapid feedback. I have continued to hone my collaborative skills since then by pair-programming an [ecosystem simulator](https://github.com/ecosystem-people/ecosystem) and through my remote collaboration on the EA Hub team.
-
-### Analytical mindset
-
-- While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
-- When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) which 46 readers 'clapped' (a lot for a first post!).
 
 ### Continuous learning
 
@@ -75,7 +73,7 @@ I learned my trade at Makers Academy's 16-week coding bootcamp.
 | Institution    | Dates          | Qualifications        |
 | ---                                                                     |---                 |---                                                        |
 | **[Royal Academy of Music](https://www.ram.ac.uk/)** | 2015-17 | MA Distinction in Clarinet Performance<br>LRAM music teaching qualification |
-| **[Cambridge University - King's College](https://www.cam.ac.uk/)** | 2011-14 | Linguistics 2.I (69%) |
+| **[Cambridge University - King's College](https://www.cam.ac.uk/)** | 2011-14 | [Linguistics](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) 2.I (69%) |
 | **Abingdon School** | 2004-11 | 2 A\*s (Latin, Greek) and 2 As (Music, German) at A Level<br>2 As (Maths, Physics) at AS |
 
 
