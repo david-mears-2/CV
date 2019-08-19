@@ -105,7 +105,7 @@ I learned my trade at Makers Academy's 16-week coding bootcamp.
 
 ## Hobbies and Interests
 
-I write [music](https://www.youtube.com/watch?v=_ZULf__C2k8) and play in [orchestras](https://www.orchestrafortheearth.co.uk/whoweare), do life-drawing, play games, and listen to podcasts on too many topics (genetics, world politics, philosophy, rationality, psychology, altruism, economics, futurism, comedy). Here are a couple of blogs: [programming](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2), [fiction/eclectica](https://pelicanesis.wordpress.com/).
+I write [music](https://www.youtube.com/watch?v=_ZULf__C2k8) and play in [orchestras](https://www.orchestrafortheearth.co.uk/whoweare), do life-drawing, play puzzle games, and listen to podcasts on too many topics (genetics, world politics, philosophy, rationality, psychology, altruism, economics, futurism, comedy). Here are a couple of blogs: [programming](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2), [fiction/eclectica](https://pelicanesis.wordpress.com/).
 
 ## Volunteering award
 
