@@ -101,7 +101,7 @@ I learned my trade at Makers Academy's 16-week coding bootcamp.
 
 **[Oxford School of English](https://www.oxfordschoolofenglish.com/)**  (Sep-Nov 2014, June-July 2015)
 
-- With my [CELTA](https://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/), I taught English as a Foreign Language teaching at one of the city's most popular EFL schools.
+- With my [CELTA](https://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/), I taught English as a Foreign Language at one of the city's most popular EFL schools.
 
 ## Hobbies and Interests
 
