@@ -26,7 +26,7 @@ Ruby developer, former teacher and classical musician, Cambridge [linguistics](h
 
 - In my first ever software work, I built [an app](https://github.com/rtcharity/receipt_generator_app) for RC in a new language (Python).
 
-**[Makers Academy](https://makers.tech) software bootcamp** (December 2018-March 2020)
+**[Makers Academy](https://makers.tech) software bootcamp** (December 2019-March 2020)
 *Student*
 
 - Languages and frameworks: Ruby, Rails, JavaScript, React
