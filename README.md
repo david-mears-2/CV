@@ -5,12 +5,12 @@ Ruby developer, former teacher and classical musician, Cambridge [linguistics](h
 
 ## Experience
 
-**UK [Department for Education](https://github.com/DFE-Digital/)** (Jan 2020-present)
+![UK logo](https://avatars.githubusercontent.com/u/7369414?s=20&v=4) **UK [Department for Education](https://github.com/DFE-Digital/)** (Jan 2020-present)
 *Junior developer*
 
 - Details to follow
 
-**[Open Cages](https://opencages.org/)** (2019-2021)
+<img src="https://raw.githubusercontent.com/otwarteklatki/opencages-website/b46e4e1e335d6f5b70752f7a4170bbc18183b249/assets/img/logo/logo-minimal.svg?token=AOMOBB4YVKKWBNQ74MC53FLBQLP64" alt="Open Cages logo" width=20/> **[Open Cages](https://opencages.org/)** (2019-2021)
 *Volunteer developer*
 
 - Details to follow (effective animal charity)
