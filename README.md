@@ -1,7 +1,7 @@
 ## David Mears
 [LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
-Ruby developer, former teacher and classical musician, Cambridge [linguistics](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) grad. Looking for work contributing to impactful projects in an environment that conduces continuous learning.
+Ruby developer, former teacher and classical musician, Cambridge [linguistics](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) grad. Looking for work contributing to impactful projects in an environment that catalyses continuous learning.
 
 ## Experience
 
