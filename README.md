@@ -1,75 +1,35 @@
 # David Mears
 
 Full-stack developer, former teacher and classical musician, Cambridge [linguistics](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) grad. Looking for work contributing to impactful projects in an environment that catalyses continuous learning.
-<hr/>
 
 ## Experience
-### 
+### As a developer
 
-| As a developer |
-| ------------- |
-| **UK [Department for Education](https://github.com/DFE-Digital/)** (Jan ‘20—present)<br>*Junior Developer ⁓ Ruby on Rails, JavaScript*<br><ul><li>Details to follow</li></ul> |
-| **[Makers Academy](https://makers.tech)** (Sep ‘19—Jan ‘20)<br>*Assistant Technical Coach ⁓ Ruby, JavaScript*<br><ul><li>Mentored and coached apprentice developers, with a focus on Agile, TDD, and OOP.</li></ul> |
-<hr/>
-
-
-<hr/>
-
-**[Rethink Charity](https://rtcharity.org/)** &nbsp;|&nbsp; Apr—Jun ‘19
-<br>*Contracted developer ⁓ Python, Django*
-
-- Built and deployed a tested [app](https://github.com/rtcharity/receipt_generator_app) for internal usage generating tax receipts, iterating on client feedback.
-- Took the opportunity to upskill in a new framework and language.
-<hr/>
-
-**[Makers Academy software bootcamp](https://makers.tech)** &nbsp;|&nbsp; Dec ‘19—Mar ‘20
-<br>*Student ⁓ see [Education](#education)*
-<hr/>
+| Organisation | Position | Dates | Technology | Activities |
+| --- | --- | --- | --- | --- |
+| UK [Department for Education](https://github.com/DFE-Digital/) | Junior Developer | Jan ‘20—present | Ruby on Rails, JavaScript, Postgres | <ul><li>I'm part of the beta-phase [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies) project, working in an agile environment</li><li>Delivering features, bugfixes, tests, refactors, and maintenance across the full stack</li><li>Driving forward a user-centric approach</li><li>Collaborating across a multi-disciplinary team to support and learn from colleagues</li> |
+| [Makers Academy](https://makers.tech) | Assistant Technical Coach | Sep ‘19—Jan ‘20 | Ruby on Rails, JavaScript | Mentored and coached apprentice developers, with a focus on Agile, TDD, and OOP. |
+| [Rethink Charity](https://rtcharity.org/) | Contracted developer | Apr—Jun ‘19 | Python, Django | <ul><li>Built and deployed a tested [app](https://github.com/rtcharity/receipt_generator_app) for internal usage generating tax receipts, iterating on client feedback.</li><li>Took the opportunity to upskill in a new framework and language.</li></ul> |
+| [Makers Academy software bootcamp](https://makers.tech) | Student | Dec ‘19—Mar ‘20 | Ruby on Rails, JavaScript | see [Education](#education) |
 
 ### As a volunteer developer
 
-**[Open Cages](https://opencages.org/), part of [Anima International](https://github.com/otwarteklatki/)** &nbsp;|&nbsp; 2019—present
-<br>*Volunteer developer ⁓ Nuxt, Vue, Ruby*
-
-- I contribute to front and back end [projects](https://github.com/otwarteklatki/) for this [effective animal charity](https://animalcharityevaluators.org/charity-review/anima/).
-- One important contribution I made was to [persuade](https://github.com/otwarteklatki/data-tracker/pull/113) the [paid developer to run automated tests](https://github.com/otwarteklatki/data-tracker/pull/136) in the deployment pipeline for their CRM.
-<hr/>
-
-**[High Impact Careers in Government (HIPE)](https://hipe.org.uk/)** &nbsp;|&nbsp; Dec ‘20—Jan ‘21
-<br>*Volunteer developer ⁓ Python*
-
-- I [migrated a data cleaning task](https://github.com/H-I-P-E/CivilServiceR/pull/6) from R to Python
-- Identified and removed bugs
-- Provided [clear documentation and guidance](https://github.com/H-I-P-E/CivilServiceR/blob/116c6b8b7a28addd0cf1a41adc3e64cd715844df/python/README.md) for the principal maintainer, since he is a data scientist rather than a developer.
-<hr/>
+| Organisation | Dates | Technology | Activities |
+| --- | --- | --- | --- |
+| [Open Cages](https://opencages.org/), part of [Anima International](https://github.com/otwarteklatki/) | 2019—present | Nuxt, Vue, Ruby | <ul><li>I contribute to front and back end [projects](https://github.com/otwarteklatki/) for this [effective animal charity](https://animalcharityevaluators.org/charity-review/anima/).</li><li>One important contribution I made was to [persuade](https://github.com/otwarteklatki/data-tracker/pull/113) the [paid developer to run automated tests](https://github.com/otwarteklatki/data-tracker/pull/136) in the deployment pipeline for their CRM.</li></ul> |
+| [High Impact Careers in Government (HIPE)](https://hipe.org.uk/) | Dec ‘20—Jan ‘21 | Python | <ul><li>[Migrated a data cleaning task](https://github.com/H-I-P-E/CivilServiceR/pull/6) from R to Python</li><li>Identified and removed bugs</li><li>Provided [clear documentation and guidance](https://github.com/H-I-P-E/CivilServiceR/blob/116c6b8b7a28addd0cf1a41adc3e64cd715844df/python/README.md) for the principal maintainer, since he is a data scientist rather than a developer.</li></ul> |
 
 ### Previous experience
 
-**[Kinder](https://kinder.world/)** &nbsp;|&nbsp; Jul—Aug ‘18  
-*Charity analysis intern*
+| Organisation | Position | Dates | Activities |
+| --- | --- | --- | --- |
+| [Kinder](https://kinder.world/) | Charity analysis intern | Jul—Aug ‘18 | <ul><li>I applied Kinder's vetting framework on organizational competence to charities on their platform.</li><li>gave constructive criticism to the company on their vetting framework, which they liked enough that they asked me to adapt it into a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405).</li></ul> |
+| Self | Freelance clarinettist and singer | 2015—2018 | <ul><li>Performing and teaching</li><li>I specialised in Creative Learning Participation: empowering people living with dementia, children with Special Educational Needs, and other groups to express themselves creatively.</li></ul> |
+| [Oxford School of English](https://www.oxfordschoolofenglish.com/) | Sep—Nov ‘14, Jun—July ‘15 | With my [CELTA](https://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/), I taught English as a Foreign Language. |
 
-- I applied Kinder's vetting framework on organizational competence to charities on their platform.
-- I gave constructive criticism to the company on their vetting framework, which they liked enough that they asked me to adapt it into a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405).
 <hr/>
-
-**Freelance clarinettist and singer** &nbsp;|&nbsp; 2015—2018
-
-- Outside of my performing groups, I specialised in Creative Learning Participation: empowering people living with dementia, children with Special Educational Needs, and other groups to express themselves creatively.
-<hr/>
-
-**[Matrix Music School](https://www.matrixmusicschool.co.uk/)** &nbsp;|&nbsp; Mar ‘15—Dec ‘18   
-*Instrumental Teacher*
-
-- I taught children and adults to love to play the clarinet and piano. I enjoyed making my lessons as collaborative as possible and stretching my empathic muscles.
-<hr/>
-
-**[Oxford School of English](https://www.oxfordschoolofenglish.com/)** &nbsp;|&nbsp; Sep—Nov ‘14, Jun—July ‘15
-
-- With my [CELTA](https://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/), I taught English as a Foreign Language.
 
 ## Education
-
-
 
 | Institution | Dates | Details |
 | --- | :---: | --- |
