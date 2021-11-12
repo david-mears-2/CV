@@ -1,4 +1,4 @@
-# David Mears
+# David Mears CV
 
 Full-stack developer, former teacher and classical musician, Cambridge [linguistics](https://www.linkedin.com/pulse/programming-linguistics-birds-feather-david-mears/) grad.
 
