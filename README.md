@@ -1,7 +1,8 @@
 # David Mears: CV
 
-Technologist, former teacher and classical musician, Cambridge [linguistics](https://www.linkedin.com/pulse/programming-linguistics-birds-feather-david-mears/) graduate, aspiring effective altruist.
-## Recent experience
+I'm a technologist focused on the public and third sectors.
+
+## Experience
 
 | Organisation | Position | Dates | Activities |
 | :---: | :---: | --- | --- |
