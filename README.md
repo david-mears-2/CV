@@ -19,7 +19,7 @@ Technologist, former teacher and classical musician, Cambridge [linguistics](htt
 | Institution | Dates | Details |
 | :---: | :---: | --- |
 | <img height="40" alt="Cambridge University logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Coat_of_Arms_of_the_University_of_Cambridge.svg"/> <br> [Cambridge University](https://www.cam.ac.uk/) | 2011—14 | [Linguistics](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) 2.I (69%) |
-| ![Makers logo](https://avatars.githubusercontent.com/u/3636186?s=40&v=4) [Makers Academy](https://makers.tech) coding bootcamp | Dec ‘19—Mar ‘20 | <ul><li>Ruby (+ Rails, RSpec), JavaScript</li><li>OOP, SOLID, TDD, REST, CI/CD, algorithmic complexity</li><li>Teamwork skills and Agile methodology</li>|
+| ![Makers logo](https://avatars.githubusercontent.com/u/3636186?s=40&v=4) <br> [Makers Academy](https://makers.tech) coding bootcamp | Dec ‘19—Mar ‘20 | <ul><li>Ruby (+ Rails, RSpec), JavaScript</li><li>OOP, SOLID, TDD, REST, CI/CD, algorithmic complexity</li><li>Teamwork skills and Agile methodology</li>|
 | [Royal Academy of Music](https://www.ram.ac.uk/) | 2015—17 | MA Distinction in Clarinet Performance |
 | Abingdon School | 2004—11 | 2 A\*s (Latin, Greek) and 2 As (Music, German) at A Level<br>2 As (Maths, Physics) at AS Level |
 
